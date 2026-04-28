@@ -1,0 +1,351 @@
+Digital ID
+
+19:11:00
+
+The Secretary of State for Science, Innovation and Technology (Liz Kendall)
+I have always believed in giving people power and control over their lives: control over the public services they use and how they access childcare, benefits and housing support; control over their data, and who sees it; and control over the choices they make to rent or buy a home, apply for a job, open a bank account, and much more besides. In the age of the smartphone, we can take this control quite literally into our own hands, but too often it feels like we are at the mercy of a system that does not work for us as well as it should. It is one with endless form filling and bureaucracy just for people to prove who they are, and one where they may need their passport to apply for a job, their national insurance number to pay tax and their driving licence to buy a pint or a glass of wine—if they are lucky enough to be asked. Most frustratingly of all, they may have to rummage around in a drawer looking for an old electricity bill just to open a bank account, join the library or enrol their children in school. It is time to fix this: to put power back in people’s hands; to get more out of our public services; and to bring the UK into the modern age.
+
+There are three reasons why we want to introduce a new, free digital ID, available to all UK citizens and legal residents above the age of 16. First, it is about giving people greater agency over their lives. In over 15 years as a local MP, I have lost count of the number of people who have come to me because they have struggled to get the public services they need or had to battle for support from different parts of the welfare state. I am sure many hon. Members will know a frustratingly similar story. People are passed from one person to another, and asked to repeat their story and provide basic information time and again. They are made to fit into a system, rather than the system working for them, which ultimately leaves them feeling as though they are a number on a list, not a human being with a life.
+
+Bringing in a new digital ID is about far more than replacing numerous bits of paper just for people to prove who they are. It is about changing the way the state interacts with its citizens through what I like to see as a new digital key that unlocks better, more joined-up and effective public services that actually talk to one another and fit around them. In building our new system, we will learn from the experiences of other countries, some of which have had digital ID for over 20 years. Many show us just how transformative this can be. In Denmark, a graduate applying for jobs has to log into a portal only once, and their ID automatically links to their school records, saving them retyping their qualifications each time. In Finland, a parent can go online to register their children for day care without uploading a payslip or putting in their salary, and the site automatically calculates the right fee. In Estonia, a digital ID means that when someone has a baby, they do not need to go to a local office to register the birth, sign up for childcare benefits or apply for nursery places. That happens automatically from day one in the hospital, so parents are free to focus on what matters most.
+
+Digital ID has the potential to empower millions of people like that in the UK, with quick, effective, seamless and secure integration between different Government systems. We know that the Tell Us Once service makes the process of registering a death more straightforward, but we should not have to wait until the end of someone’s life to offer them joined-up, personalised support. So our new system will help modernise Government services to fit around people’s lives, rather than forcing them to fit into the system.
+
+The second reason for introducing digital ID is to offer people greater security and actually greater control over their own data. Other countries that have introduced digital ID find that digitally checked credentials are far more secure than physical documents. They are much less likely to be lost or stolen, they have reduced errors and mistakes, and they have helped crack down on fraudsters who can ruin peoples’ lives. Privacy and security will be hard-wired into the system from the start. There will be no pooling of people’s private information into a single, central dataset—it will be a federated data system—and user control will be at the heart of our plans. With a digital ID, people may end up having more choice over what they show the world, not less. If they are buying a drink at the bar, instead of showing a physical driving licence revealing their full name and address, they will be able to prove they are over 18 without even showing their exact birthday if they do not want to. We will ensure that our digital ID operates to international best practice standards for data security and privacy, and we are working closely with the National Cyber Security Centre to ensure it keeps pace with the changing threats we face.
+
+The third and final reason for introducing digital ID is to deliver greater fairness by showing exactly who has the right to work in the UK. Digital ID is not a silver bullet for tackling illegal immigration, but it will be a deterrent to would-be migrants who are considering coming to the UK, alongside all the other action we are taking. Making ID checks both mandatory and digital for all employers will provide us with far more actionable intelligence, so we can move swiftly to identify rogue employers who are not following the rules. Under this Government, illegal working arrests have gone up 50% in the last year. That is progress, but our digital ID will help us to do more. It will be mandatory for right to work checks by the end of this Parliament, helping tackle illegal working, cracking down on rogue employers, creating a level playing field for employers who do the right thing, and giving people who do have the right to be here the cast-iron guarantee that this is their country and that they are welcome in the UK.
+
+For our new ID to be both effective and fair, it must be genuinely inclusive. That is non-negotiable for the Government, and for me personally. Currently, around one in 10 UK adults do not have a passport or a driver’s licence to prove their identity, and around 1.5 million people do not have a smartphone, laptop or tablet, or are digitally excluded for another reason. We are already making progress with our digital inclusion action plan. We will continue to work closely with all the relevant organisations to understand the barriers to inclusion and how they can be overcome, so we bring everyone into the system. I want to hear directly from hon. Members across the House about these matters, and from those in the digital identity sector who have so much experience to learn from. We will consider physical alternatives to the virtual document and face-to-face support for those who need it, such as the 5% of UK households who do not have home internet access. Ultimately, however, we want Britain to be a country where everybody has the digital skills and access to be part of the modern world, including through our new digital ID to unlock more effective services and support.
+
+To conclude, we will launch a full consultation on our plans by the end of this year, including with parliamentarians, the devolved Administrations and members of the public. Legislation informed by that process will follow shortly afterwards. I know hon. Members will have many questions and I look forward to taking them, but let me just say this. Some 92% of people over 16 already have a smartphone. Many of us already use digital credentials held in our phone wallets, from tickets to events and online banking to storing boarding passes. People should expect the same service from the Government. Indeed, we should be criticised if we are not modernising our services to make them easier and more convenient for the public. Years from now, when we look back, I believe that having your ID on your phone will feel like second nature, putting more power directly into people’s hands and giving them more control over how they interact with government and the whole range of services. That is something worth striving for. I commend this statement to the House.
+
+Madam Deputy Speaker (Ms Nusrat Ghani)
+I call the shadow Secretary of State.
+
+19:20:00
+
+Julia Lopez (Hornchurch and Upminster) (Con)
+Nearly three weeks ago, the Prime Minister unveiled a plan for mandatory digital identity that will fundamentally shift the balance of power between citizen and state. He did not announce it here in this House, but at a love-in of the progressive left, sponsored by Labour Together and haunted by the ghost of Tony Blair. The justification was his own catastrophic failure on migration. He knows it will not stop the boats. When Brits are forced to have ID as illegal migration continues unabated, it will simply confirm fears of a two-tier society, fuelling the division and conspiracy theories that he so arrogantly claims he is the antidote to. What a cynical mess. Can the Secretary of State set out how the scheme will identify illegal migrants working in the black economy, when their gangmasters are experts at avoiding any state interaction? She rather slinked away from those key points in her wonderfully innocuous statement about making it easier to join libraries. We have in the official press release this glorious piece of doublethink:
+
+“It will not be compulsory to obtain a digital ID but it will be mandatory for some applications.”
+
+When employment itself requires Government-issued identity, you cannot meaningfully consent—unless, of course, you never want to work.
+
+Here is the fundamental issue: in a free society, the burden of proof has always rested with government to justify its actions to earn our trust. Mandatory digital identity reverses that. While today the scheme focuses on work checks, Labour says it wants to extend this type of mandate into more areas of our lives. Which areas? Where does it stop? I understand that even 13-year-olds are now being considered. What about those without digital access? Labour has deprioritised gigabit roll-out and published a very worthy digital inclusion action plan without any action.
+
+The Prime Minister points to Estonia and India as models we should seek to replicate, despite serious cyber vulnerabilities. The UK’s own sign-on system was breached during red team testing this very March. When 2.8 million people petitioned against the plan, the Government assured them that they would adhere to the highest security standards. Can the Secretary of State confirm to us here today that the system on which her mandatory ID will be built already meets those standards, and that the National Cyber Security Centre will publicly back her up?
+
+This crafty scheme was not in Labour’s manifesto. Even the Cabinet think the whole thing is a fantasy. The Secretary of State cannot even bring herself to tweet about it. Why does the Prime Minister keep handing her his steaming messes to scoop up? The migration argument has totally bombed—we heard it here today. She and the Prime Minister are now reframing this whole thing as the route to better online services—no more rifling around for utility bills; not an ID, we hear today, but a key. They are deliberately conflating two very different things.
+
+Better and more convenient online services were already coming in. We already had right to work and rent checks, convenient DBS—Disclosure and Barring Service—checks and driving licence renewals, all designed with choice, consent and privacy in mind, paper options retained, nobody forced down the digital route and trust as the key, and private identity providers enabled. This is not about Luddites versus modernisers; this is about the fact that Labour cannot resist its big fat socialist dreams: centralised databases, state mandation, big money, the exclusion of private sector expertise. Why create this honeypot for hackers? How much will it cost? Why should we trust Labour to be the verifier of someone’s identity, when during the passage of the Data (Use and Access) Act 2025 it would not even commit to recording someone’s sex accurately?
+
+Let me be clear: Conservatives oppose mandatory digital identity in principle and in practice. If we believed it was necessary, we would have introduced it in government. We chose not to because you can deliver better online services without resorting to a costly, controlling, complex and risky system. This is a cynical distraction from a desperate Prime Minister. He wants people to believe that mandatory ID will fix his migration mess, but it will not. Channel crossings will continue until he introduces a real deterrent, but he has not got the guts to take on the lawfare industry that made him.
+
+We believe that government should empower citizens, not the other way round; that government should earn citizens’ trust, not the other way round. Only those entitled to benefits should receive them and those with no right to be here must leave, but those imperatives are not best delivered by controlling British people instead of those who do not play by the rules. The Government who promised to tread lightly on our lives have got their boots out. Will the Secretary of State now kill this plan, rather than be the sacrificial lamb for another of this Prime Minister’s grubby mistakes?
+
+Liz Kendall
+Well, Madam Deputy Speaker, that is definitely the first time I have been called a big fat socialist. [Laughter.]
+
+The hon. Lady asks how it will help crack down on illegal immigration. Making ID mandatory and digital will really help us to get, much more swiftly and automatically, more actionable intelligence about rogue employers, and about who are doing the checks they are required to do and who are not.
+
+Secondly, the hon. Lady talks about those who are digitally excluded. As I said in my statement, I take that issue extremely seriously. We actually have a digital inclusion action plan. The Conservatives did not do one for 10 years. If they cared so much about it, perhaps they would have done.
+
+Understandably and rightly, I am sure we will have lots of questions about having the highest possible standards. We will be working to international best practice standards. There are not many advantages to lagging behind so many other countries—many other countries—that have digital ID, but one is that we can learn from their experience when things have gone wrong and how they improved their security. That is what we intend to do.
+
+I finish by saying this. The hon. Lady comes to the Dispatch Box with fire and brimstone, but it is quite interesting that she differs from the shadow Home Secretary. Back in February, the right hon. Member for Croydon South (Chris Philp) backed the idea, saying there were “very significant benefits”. In August, he said the Conservatives should consider it. The Conservatives’ leader in June said that she had moved her position on digital ID and that if it could answer difficult problems then, yes, that was something they would look at. Given the amount of flip-flops on the other side of the Chamber, you would think it was still summer. They are not serious, and they are not credible. Until they are, they are not electable.
+
+Madam Deputy Speaker
+I call the Select Committee Chair.
+
+Dame Chi Onwurah (Newcastle upon Tyne Central and West) (Lab)
+The Secretary of State is absolutely right to champion access to a consistent, trusted digital ID. All of us online have digital IDs aplenty already—Facebook, TikTok, His Majesty’s Revenue and Customs, Tesco—so she is right to bring the benefits of one digital ID to my constituents. But making digital ID mandatory for everyone seeking work is poking a stick in the eye of all those with security, privacy and/or Government capacity concerns, which my Committee will be examining as part of our work on digital government. For now, though, can she first confirm that people will be in control of their digital ID data and who accesses it? Secondly, will she say whether it will be procured externally from the private sector or developed in-house by Government digital services?
+
+Liz Kendall
+My hon. Friend is right to raise the important issues of security—people are rightly concerned about the security of their data, and that is why that will be at the heart of our consultation. In answer to her specific questions: yes, people will control who sees and accesses their data, and we absolutely expect this system to be designed and built within Government, building on the One Login.
+
+Madam Deputy Speaker
+I call the Liberal Democrat spokesperson.
+
+Victoria Collins (Harpenden and Berkhamsted) (LD)
+I thank Secretary of State for advance sight of this statement, but I am quite frankly disappointed that this is how we are starting the conversation on digital ID in Parliament. We Liberal Democrats believe that freedoms belong to citizens by right, but the Government’s plans for digital ID for every single working person risk eroding the hard-won freedom to control the way we live our lives. They risk excluding millions of vulnerable people from their own society and wasting billions in public money chasing expensive solutions that will not work. Yet again, it is a gimmick to tackle irregular migration—something I had hoped was reserved for the Conservatives. Yet again, by eroding public trust with these rushed, retrofitted policies, the Government have squandered an opportunity to use technology to improve public services by bringing people with them. In addition, the Government announced this—a scheme that will impact every single working person in the UK—weeks before it could be scrutinised by Parliament.
+
+Any claims from this Government that this scheme will be non-compulsory and give agency are poppycock in reality. As a requirement for the right to work, it is mandatory ID in all but name—the Secretary of State said so herself just now. Where is the choice in that? Last week, the Foreign Secretary proposed issuing digital IDs for teenagers. This is clear Government mission creep, and it is dangerous.
+
+Liberals have always stood up against concentrations of power, and for good reason. We have seen the Government’s abject failure to secure people’s data before—just ask the victims of the Legal Aid Agency data breach or the armed forces personnel who were victims of the Ministry of Defence data breach whether they have faith in the Government to keep their most personal data secure. How can the public have trust in the Government to manage a system that will manage the data of almost the entire population?
+
+Will the Secretary of State commit to publishing an impact assessment for the 8.5 million people without foundational digital skills, such as my constituent Julie, who does not own a smartphone and is fearful of being excluded from employment, healthcare and other essential services? Will the Secretary of State come forward with a plan to reduce the risk of further marginalisation?
+
+All these serious concerns, from privacy to exclusion, come at a staggering cost. This scheme will cost the taxpayer billions—money that will be wasted on a system doing little to tackle the Government’s stated aims of immigration enforcement. Meanwhile, our public services are crumbling. Finally, I ask the Minister how much taxpayer money the Government are prepared to waste on this—a scheme for which they have no mandate and no public support—before they admit it does not work.
+
+Liz Kendall
+I will try to keep this brief, Madam Deputy Speaker. The hon. Lady raises a number of different issues that I mentioned in my statement. On digital exclusion, we have a digital inclusion action plan and will be spending £9.5 million in local areas to help people who are currently excluded to get online. We will be publishing a full consultation on that, and I am sure she will feed in her views.
+
+It is interesting that the Liberal Democrat leader, the right hon. Member for Kingston and Surbiton (Ed Davey), said last month that if a UK system were about giving individuals the power to access public services, he could be in favour of it. I hope the Liberal Democrats drop their partisan approach and work with us to deliver the system. I say to the hon. Lady and to other hon. Members that many, many other countries have digital ID systems. The EU is rolling out a digital ID system in all member states—
+
+Mr Mark Francois (Rayleigh and Wickford) (Con)
+Ah! [Laughter.]
+
+Liz Kendall
+I know that those on the Conservative Benches do not like it. I think we need to keep a little perspective.
+
+Madam Deputy Speaker
+Order. We have two Select Committee statements and a substantial debate later this evening, so this statement will have to conclude in 45 minutes. I ask colleagues to keep their questions short and the Secretary of State to keep her responses even shorter and on point.
+
+Jo White (Bassetlaw) (Lab)
+Just over a month ago, I visited Tallinn, in Estonia, to understand why digital ID is so popular with the old, the young and those who are defined as digitally excluded. They told me that it is because they have control over their data that is held by the state; they can see it, see who has accessed it and who else can see it. What is critical, in a state that borders Russia, is that they have confidence in their absolute control over their data security. I believe there are lessons that we can learn.
+
+In the UK, my constituents want to know who is in this country, who is legally entitled to use our public services, and who is entitled to work here. Does the Secretary of State agree that we need to learn from countries such as Estonia and Denmark on those matters?
+
+Liz Kendall
+Yes, I do. My hon. Friend is right that the citizens of this country rightly want to know who has a right to be here and who has a right to work here. That is a very important principle.
+
+Bradley Thomas (Bromsgrove) (Con)
+I am wholly opposed to this policy, as I know are many of my constituents. While the Government have talked about the so-called economic benefits of accessing services and digitalising how we interact with Government, my constituents are concerned about infringements on liberty and the shifting relationship between the individual and the state. The state must always be accountable to the individual. Can the Secretary of State rule out this system ever becoming one through which the Government can track location, consumer spending habits or social media activity?
+
+Liz Kendall
+Yes.
+
+Ms Stella Creasy (Walthamstow) (Lab/Co-op)
+I appreciate the Secretary of State setting out the Government’s ambitions. I have to pick her up on something, though, because she said this policy would be free, but ultimately the taxpayer will have to pay for it. The costings that we have seen are about £1 billion to £2 billion to create the system and another £100 million each year to run it. We know the cost of a data breach: the Office for Budget Responsibility has suggested it could be 1.1% of GDP—in fact, our entire growth—were it to happen to the economy. Marks &amp; Spencer, Jaguar Land Rover and Co-op have all shown us that. Can the Secretary of State therefore give us at least a ballpark figure for the capital and revenue costs that she envisions for what she has set out?
+
+Liz Kendall
+I thank my hon. Friend for her question. We also need to look at the potential benefits of this policy in savings from cracking down on fraud and making services more effective and efficient. Clearly, the eventual cost will depend on the design and build of the system, which is what we are consulting on. I am sure that she and many other colleagues will feed in their views.
+
+Joy Morrissey (Beaconsfield) (Con)
+Given that digital ID will not stop illegal immigration and will further erode our civil liberties, will the Secretary of State confirm that the Prime Minister announced it only as a deterrent to those seeking to topple him at the Labour party conference? If not, what is the actual purpose of this policy?
+
+Liz Kendall
+That is nonsense.
+
+Charlotte Nichols (Warrington North) (Lab)
+I have been contacted by a large number of constituents in recent weeks, whose healthy scepticism about digital ID making a material difference in tackling illegal immigration I share. I think there is scope for better digital integration across the public sector more generally, but the Secretary of State talked in her statement about a lot of hypothetical things—things that this policy could do in the future—and the only use case that has been confirmed so far is right-to-work checks. Can we be clear on the use cases that we intend to pursue and over which timescales, so that we have the information we need to make a decision on whether we want to go down this path?
+
+Liz Kendall
+These are not hypotheticals; we are looking at how other countries have used these systems to deliver more effective Government and other services to their citizens. We have proposed having mandatory right-to-work checks by the end of the Parliament, but there will be many important voluntary ways in which people can better access services and support. We will be consulting on that fully when we come forward with the detailed proposals.
+
+Ben Obese-Jecty (Huntingdon) (Con)
+I am firmly against the Government’s plans to introduce digital ID, which is alarming state overreach. This pledge—seemingly made on a whim, given that it made no appearance in the Labour manifesto and there is no mandate for it—seems to be a desperate attempt to shore up Labour’s moribund pledge to smash the gangs. There appears to be little appetite or enthusiasm for this proposal on the Government Benches, and the claim that it will curb illegal immigration, when we are still offering asylum seekers somewhere to live and an asylum support enablement card of £49.18 a week, is not supported by the evidence. Having received a huge amount of correspondence on this matter, I ask the Secretary of State what guarantees she can give my constituents that the scheme can be afforded, that their data will be safe, and that the scheme will be never used to track their use of services.
+
+Liz Kendall
+I have already said that the scheme will not be used for that. In many other countries these systems have made accessing Government and public services much easier, quicker and more efficient. I think there is some scaremongering about this issue. Such schemes in other countries really have made Government fit around people, rather than making people fit into Government and their different services, and I think that is a huge benefit.
+
+Richard Burgon (Leeds East) (Lab)
+Given the serious threats that digital ID poses to civil liberties and our data security and the risk of our data being handed over to US tech giants, I am firmly opposed to it. However, is it not also a real big waste of money, and should the Government not instead focus on the No. 1 priority of people across the country, which is tackling the cost of living crisis? Would it not be better to push the money from this into that while safeguarding civil liberties?
+
+Liz Kendall
+I think that providing better value for taxpayer money by getting services to work more quickly, effectively and efficiently and by cracking down on fraud and reducing error and waste is a really important part of delivering for the British people.
+
+Martin Wrigley (Newton Abbot) (LD)
+I fully agree with many of the points made so far, and I too have had many comments from constituents. This scheme will not help in areas of digital exclusion, especially where there is poor phone coverage, as there is in many parts of Devon, and neither will it stop rogue employers who currently employ cash in hand and do not look at the books. Why would they look at ID on a phone? They will not. Digital ID must be optional. Could the Secretary of State please assure us that it will be built along the lines of sovereign AI and that we will not hand over control of a system like this, with information about people’s lives, to companies such as Palantir?
+
+Liz Kendall
+We absolutely will not. If the hon. Gentleman would like to write to me with more detail about areas and groups of people in his constituency who are digitality excluded, I will make a commitment to doing everything possible to tackle that problem.
+
+Emily Darlington (Milton Keynes Central) (Lab)
+I think that many Members have fundamentally misunderstood the proposal. It is actually about putting power in the hands of the citizen, not the state. The state already holds this information; digital ID will allow citizens to access it. On fraud, £11.4 billion was lost in scams last year, and £1.8 billion per year is lost due to identity theft. Does the Secretary of State see a role for digital ID in cracking down on the growing problem of fraud and identity theft?
+
+Liz Kendall
+I absolutely do. The countries that have introduced digital ID have found that it helps to tackle fraud. People can lose forms of identity and they can be used by other people. The scheme will help to tackle that problem as well as make services more effective and efficient.
+
+Mr Mark Francois (Rayleigh and Wickford) (Con)
+I am completely opposed to digital ID cards as a matter of principle. The proposal was not in the Labour party manifesto, and the Government have no mandate for it. It is basically a multibillion-pound gimmick to try to address the fact that small boat arrivals are up a third since they came to power and they have not got the faintest clue how to stop them. I have two very specific questions to ask of the Secretary of State. First, how much—even as a ballpark figure—will it cost to bring in this system? Secondly, if it is to be mandatory, which would be completely wrong, what would be the penalty for a citizen who refuses on principle to have digital ID?
+
+Liz Kendall
+I do not know why the right hon. Gentleman thinks that people should not be required to prove that they have the right to work in this country. It seems a very reasonable thing to do. Some 92% of people over 16 have a phone, and as I said in answer to a previous question, we are consulting on how we will design and develop this whole programme. Further details about costings will come out in due course.
+
+Mr Clive Betts (Sheffield South East) (Lab)
+On the Public Accounts Committee we regularly hear examples of Government IT systems that are out of date, inefficient and open to fraud and hacking. That is the reality of it. When looking at other countries such as Estonia and Denmark, will the Secretary of State also look at how they have completely reformed and recreated modern, comprehensive IT systems where individuals have easy access? In Estonia, as I understand it, an individual has the right to know which parts of Government have looked in their IT systems at them.
+
+Liz Kendall
+My hon. Friend is absolutely right. We will be learning lessons from those countries. People will be able to see who accesses their data, so this proposal will give them more power and control.
+
+If I may, Madam Deputy Speaker, I will reply to the second question from the right hon. Member for Rayleigh and Wickford (Mr Francois). There will not be a sanction or penalty for people who do not carry digital ID. There will remain penalties on employers who do not obey the law and do ID checks, but there will not be penalties on the individual.
+
+Siân Berry (Brighton Pavilion) (Green)
+I am not sure, however many examples the Secretary of State gives of other countries, that she will convince the people of Britain that mandatory ID cards fit with our particular values. Will she listen to the millions who signed the parliamentary petition, as well as to the fighting Yorkshireman Harry Willcock and the Churchill Government of 1952, who considered the abolition of ID cards an important symbol of a society that trusted its citizens?
+
+Liz Kendall
+I think that when the British people—so many of whom now have online banking on their phones and store so much in their digital wallets—look at their friends, neighbours and colleagues across the channel and see that many across Europe have digital ID as a matter of course and that it makes their lives simpler and easier, their common sense will say, “We want a bit of that.”
+
+Dr Allison Gardner (Stoke-on-Trent South) (Lab)
+As Chair of the all-party parliamentary group on digital identity, I welcome the Government’s proposals. However, many of my constituents have deep concerns and are seeking reassurance. In order to build trust in the digital ID system, it would help if people felt that they had choice and control over whether to use digital ID or not. As such, will the Secretary of State look again at the proposal for mandatory digital ID for adults and allow people a choice for non-digital alternatives, which incidentally would offer resilience against IT failure, and control over their data with a decentralised or federated data approach?
+
+Liz Kendall
+The Prime Minister has been very clear that it will be mandatory for right to work checks, but I can confirm to my hon. Friend that we do not want one big, centralised data set and that it will be federated. That is one of the lessons we learned from other countries. I am sure that there are many more things we will have to do to make sure that people’s data is secure, but this will give people more control because they will be able to see who accesses their data, and that is a good thing.
+
+Sir John Hayes (South Holland and The Deepings) (Con)
+If it were not so sinister, it would be quaint to hear the Secretary of State say that it is international, novel and modern, and therefore it must be good. Try telling that to Jaguar Land Rover workers, M&amp;S customers, or postmasters and postmistresses. Will the right hon. Lady recognise what I recognised when I was the Home Office Minister responsible for national cyber-security: when one concentrates data and makes it interconnected and interoperable, one also concentrates risk, and the risk is that people lives will be damaged and possibly even destroyed?
+
+Liz Kendall
+I thank the right hon. Gentleman for his question. He has a lot of experience in this area. We want not only to learn from other countries but to work closely with the National Cyber Security Centre to make sure that we have the highest possible standards of security. Where mistakes have been made, we can learn to put them right, and we are determined to do that. I am very happy to meet the right hon. Gentleman to discuss this in more detail, because we want to get this right.
+
+Rachael Maskell (York Central) (Ind)
+Identifying rogue employers who exploit labour and dodge taxes is one thing. However, it makes no difference whether someone holds digital ID over paper ID if the employer refuses to acknowledge the ID. Could the Secretary of State point to the evidence, which I am very interested to see, of how a digital ID will prevent rogue employment?
+
+Liz Kendall
+The hon. Member is always rightly concerned to see the evidence, and when we publish our consultation on this proposal she will see it all there. It is important to understand that making ID checks mandatory and digital, rather than solely relying on getting information from individuals, as we do at the present, can make a real difference in identifying those who are not doing the full range of checks. It is not the only thing we need to tackle rogue employers, and there are many other actions we need to take, but it is a good step forward.
+
+Pete Wishart (Perth and Kinross-shire) (SNP)
+Just as we opposed ID cards under Tony Blair, we will oppose digital ID under this Labour Government, as they seek once again to impose this unwanted scheme on a sceptical public. The whole idea of digital ID is an attack on our liberty and privacy. It is a treasure trove for hackers and those who would hoard personal data. It will do little to tackle illegal immigration and it will cost billions of pounds. We in Scotland want nothing to do with this Britcard, and the Scottish Government will energetically oppose it. My question to the Secretary of State is this: when we rightly and inevitably oppose and reject this, will she do the usual UK thing of imposing it on us anyway?
+
+Liz Kendall
+It is not a Britcard. I must say that I am tiny bit confused, because in March 2021 the Scottish Government published “A changing nation: how Scotland will thrive in a digital world”, which included plans to
+
+“Introduce a digital identity service for users…to prove who they are, and that they are eligible for a service.”
+
+The hon. Member had better make up his mind.
+
+Nadia Whittome (Nottingham East) (Lab)
+I do not know how many doors I have knocked on in my 12 years as a Labour member, but I do know that not a single person has ever told me that what they really need to improve their lives, their community and the country is mandatory digital ID. It will not tackle irregular working, it would undermine civil liberties, it is divisive among the public, and it will not make a difference to people’s lives. Why are we doing it? Why are we burning political capital and public money on that instead of focusing on the issues that really are impacting our constituents? I worry that this is yet another huge mistake.
+
+Liz Kendall
+In the 15 years that I have been an MP, many people have said that it can be a nightmare trying to talk to different bits of the public sector: repeatedly having to give the same information and tell their story time and again. They are concerned about illegal working in this country. This is an important step forward in terms of improving how the state fits around people’s lives—it does not force them to fit into the system—and I think that is an issue that many Members across the House have in common with their constituents.
+
+Steve Darling (Torbay) (LD)
+I congratulate the Secretary of State on her new position. I am mindful of her previous position, where she masterminded the personal independence payment reforms, so with her proposals before us today I am concerned that she is fast becoming the Minister for lost causes. In my constituency, we have an awful lot of people who are digitally excluded; it is really sobering. Will she please give us some clear examples of how people will be helped? I know of dozens and dozens of people who are against the proposal in principle, but what about those who will potentially be excluded?
+
+Liz Kendall
+We have a £9.5 million digital inclusion fund that will support local organisations with grants of between £25,000 and £500,000 to help specific groups of people who are currently digitally excluded, to ensure that they can get the benefits of all manner of different private and public sector services that are available online. We will announce the results of the application process shortly. As always, I am happy to meet the hon. Gentleman for him to tell me about the specific issues in his constituency. If we need to do more to ensure that everybody is digitally included, we will act.
+
+Dame Meg Hillier (Hackney South and Shoreditch) (Lab/Co-op)
+Well, here we go again, 15 years after the Conservatives abolished it. I say to the naysayers that our passport data and our driving licence data is on a database, so we need to be careful about throwing out the baby with the bathwater.
+
+We have had GOV.UK Verify and Tell Us Once, so there have been attempts to do this, and we all log into our HMRC accounts, so we are using digital identification in many ways, but will the Secretary of State be really careful about the challenges that some will face? Also, why on earth is it mandatory? The previous proposal was for voluntary use, and interestingly it was popular with migrants, who really wanted to have that ID to prove their right to access, but they did not have to do so. That would allow public services the time to work with those who are digitally excluded.
+
+Liz Kendall
+My hon. Friend has a huge amount of experience on this issue; I look forward to discussing it with her. The only area where we are proposing the digital ID to be mandatory is for right-to-work checks. [Interruption.] No, we are not proposing it to be mandatory for any other area. I believe that as people start to see those benefits, they will want to have it on their phone for accessing public services as well as those in the private sector. We have to get the security right and we have to get digital inclusion right, but I believe that in today’s world, where so many of us have so much information on our phones, there has been a shift in opinion. I look forward to hearing more from her about what she thinks we need to do next.
+
+Dr Caroline Johnson (Sleaford and North Hykeham) (Con)
+This ID card is being touted as an idea to do mandatory work checks. It rather surprises me that the right hon. Lady, who until recently was in charge of the Department for Work and Pensions, is not aware that we already have mandatory checks in order to work. Her statement was contradictory: she said that it will give people more control over their data, but unless you are a multimillionaire who does not need to work, you will need to have an ID card, so it is not really optional at all. She has failed to answer questions from many MPs across the House on how much it will cost. Can she say how much it will cost?
+
+Liz Kendall
+At the risk of repeating myself, costs will depend on exactly the design, build and delivery of the programme. We will set out further details. I think people would expect that those who work here have a right to do so. That is an important principle, and one that I am proud to support.
+
+Andrew Pakes (Peterborough) (Lab)
+I welcome the statement and the consultation as a contribution towards modernising our public services. Constituents of mine are frustrated by how they cannot interact with the state. Alongside my hon. Friend the Member for Bassetlaw (Jo White), I went on the recent trip to Tallinn, and I was struck by not just how digital identity could make things easier, but how it could drive the uptake of things like childcare and pension credit and actually provide a service to people. I was also taken by the fact that, in Tallinn, the identity system was developed to stop the overreach of the state, and civil liberties are built into it. Will my right hon. Friend ensure that control and data use are a real part of the consultation?
+
+Liz Kendall
+I agree with my hon. Friend that this could give people more power and control over their data—who sees it and who uses it—as well as all the other benefits he rightly set out.
+
+Lewis Cocking (Broxbourne) (Con)
+The British people did not vote for a two-tier digital police state run by this failing Labour Government. This policy is undemocratic and authoritarian and will do absolutely nothing to stop illegal immigration. Will the Secretary of State listen to the overwhelming volume of public opinion and drop it immediately?
+
+Liz Kendall
+No.
+
+Clive Efford (Eltham and Chislehurst) (Lab)
+I recall the debate about the previous attempt to bring in ID cards, when people were concerned about having to produce them if demanded by authorities such as the police. I too have been to Estonia, and I understand that the argument has moved on—we now have apps on our phones such as the NHS app and we have the GOV.UK One login, so we all have a digital footprint these days—but can my right hon. Friend categorically state that that at no stage in the future will people be required by the police to produce this digital ID?
+
+Liz Kendall
+I can.
+
+Manuela Perteghella (Stratford-on-Avon) (LD)
+EU nationals in the UK were guinea pigs for a digital-only status. Serious concerns are still being raised, including about access issues that resulted in people being wrongly denied work, housing, education and welfare. Extending digital IDs to the British people will result in another layer of mandatory surveillance and loss of privacy. Will the Secretary of State confirm what independent oversight will monitor data breaches, errors and misuse?
+
+Liz Kendall
+There will not be surveillance, and we are not proposing that it will be mandatory to access all different types of services. That is just a wrong characterisation of what we are proposing.
+
+Lizzi Collinge (Morecambe and Lunesdale) (Lab)
+The current proposal is that digital ID will be mandatory for right-to-work checks by the end of this Parliament. Concerns have been raised with me by constituents that that makes it de facto mandatory for working-age people. Has the Secretary of State considered simply sticking with it as a voluntary service so that people who wish to can get the benefits of a streamlined ID, and then, when it is bedded in, perhaps looking at whether it is necessary to make it mandatory for right-to-work checks?
+
+Liz Kendall
+We have considered all those different aspects. It is right for the Prime Minister to say that it should be mandatory for right-to-work checks by the end of the Parliament to prove a person’s right to be here and to work. I also believe that as we develop it and show the benefits for many other aspects of daily life, for which we are not proposing it will be mandatory, people will see the benefits of that. I hope that that will start to shift the debate.
+
+Dr Luke Evans (Hinckley and Bosworth) (Con)
+I want to pick up the question about punishment, because I am confused. The Secretary of State says that, in order to work, someone will have to have a digital ID—it will be mandatory—yet she also says that the impetus will be on the company and not the individual, who will not need to have one. How will that work? Will the individual have to have one? If they choose not to, will that mean they cannot work? Will it mean they have to claim benefit? Or will it mean they will go to prison because they do not have a mandatory ID?
+
+Liz Kendall
+No, that is not what it will mean. The specific question was whether there would be sanctions or penalties on a person for not having one, and I said, “No, there won’t.” As is the case now, if an employer has not done the required checks, it can face a civil penalty of up to £60,000 for each individual worker or, for a criminal offence, up to five years in jail, but there will not be penalties or sanctions on the individual.
+
+Kirsteen Sullivan (Bathgate and Linlithgow) (Lab/Co-op)
+I thank my right hon. Friend for her statement, which set out clearly how far the UK is lagging behind our European neighbours on faster and easier access to services. That said, my constituents have raised two main concerns with me, and I would be grateful if she could provide some reassurance. One is about why they will require digital ID to work when they already have national insurance numbers, and the other is about how digital ID will impact the most vulnerable residents.
+
+Liz Kendall
+I hope that I have explained why digital ID needs to be mandatory for right to work checks, and the benefits of that as one part of a toolkit of things to crack down on illegal immigration. Making sure that vulnerable people—those who do not have smartphones or tablets, or the skills—have access is extremely important to me. We will be working closely with all the organisations that can make a difference and the digital inclusion action committee, and we want to look at what more we can do very locally to support groups that we know have access to people. I would be very happy to meet my hon. Friend to talk in more detail about what we might be able to do to support her constituents, because we are determined to make sure that Britain is a digitally included country.
+
+Gavin Robinson (Belfast East) (DUP)
+Through the Secretary of State, may I thank the Minister for Digital Government and Data, who is sitting to her left? He was in Belfast last week and engaged with the Minister for Communities in the Northern Ireland Executive. He will know, and she should know, that our principled and practical objections to this proposal 20 years ago remain to this day, but the Secretary of State will also know that since the policy’s announcement there have been many fanciful and facile comments in Northern Ireland suggesting that it would be in breach of the Belfast agreement. She knows that ideologically, practically, principally, politically and legally, that is wrong, so will she at least confirm today that nothing within the consultation will give an option to anyone to suggest that the policy, if it were to be introduced, would be anything other than across the United Kingdom?
+
+Liz Kendall
+It will be across the United Kingdom. As the right hon. Gentleman said, my right hon. Friend the Minister for Digital Government and Data was in Northern Ireland just last week, and he also visited and talked to members of the Irish Government. The Good Friday agreement and the common travel area are absolutely sacrosanct. This will be a UK-wide proposal, and nothing that we do would ever harm the Good Friday agreement.
+
+Samantha Niblett (South Derbyshire) (Lab)
+Over 20 years ago, I began a career with Experian, a data company, and we were talking about having a unique reference number for everybody in the country. That was for the benefit of companies, so that they could make more money off us, whereas what the Government are doing is looking to give us access to our own data. I am excited by digital ID, but I used a Facebook post to ask my constituents what they think. I had over 400 responses, which were really kind and considered—
+
+Madam Deputy Speaker (Ms Nusrat Ghani)
+Order. We do not have time for 400—
+
+Samantha Niblett
+Sorry. It was—
+
+Madam Deputy Speaker
+Order. I am on my feet, so be seated. Question.
+
+Samantha Niblett
+My question is this: with all the arguments for and against taken into account, and with trust in politicians and politics at an all-time low, what assurances can my right hon. Friend give that she will work with me to ensure that my constituents feel like this is being done with them, rather than to them?
+
+Liz Kendall
+I am sure that my hon. Friend will send me the results of her survey, and I will look through them in detail. I believe that if we can show people that the Government are changing, and that we are working around them and meeting their needs and concerns, that will be one of the ways in which we can build trust, and that is what we are determined to do.
+
+Ben Maguire (North Cornwall) (LD)
+My constituents have been crystal clear with me: they do not want a mandatory digital ID forced upon them. It would mark a clear erosion of their civil liberties and—let us face it—the Government’s track record on data security is poor to say the least. Many in my constituency do not have phone signal or wi-fi, and rolling out digital ID is set to cost between £1 billion and £2 billion—four times what the Government plan to save with the family farm tax. Please, Minister, learn the lessons from the welfare Bill, listen to your Back Benchers and do not waste this colossal amount of taxpayers’ money.
+
+Liz Kendall
+I do not really know what the question was there.
+
+Darren Paffey (Southampton Itchen) (Lab)
+I thank my right hon. Friend for her statement and her comments on digital inclusion. Will she say a bit more about how the inclusion strategy might address some of the challenges faced by care-experienced young people and care leavers? Will she guarantee that the priority will be bringing together and integrating the public services and support that they are entitled to? Too often, they fall between the cracks of those services.
+
+Liz Kendall
+Absolutely. That is one of the issues that has already been raised with me directly, along with people who are homeless, women who may be fleeing domestic violence, people who do not have access to broadband, and a whole range of other issues. We will work closely with the groups that work with care leavers, but obviously we will want to talk to them ourselves. I am more than happy to follow up that conversation with my hon. Friend.
+
+Dr Andrew Murrison (South West Wiltshire) (Con)
+Why does the Minister think that a staggering 3 million people have already signed a petition against her expensive and intrusive plans? Does she perhaps think that those people want her to get on with fixing things that matter to them, like illegal immigration and smashing the gangs, which this measure will do nothing to fix, as the construction of her statement seemed to suggest she understands? Will she spend her time trying to sort things that really matter to people, rather than trying to create problems to which there is no obvious solution?
+
+Liz Kendall
+At the risk of repeating myself, I think that trying to get Government services to talk to one another and work more effectively is what people want. The right hon. Gentleman raised the issue of action on illegal immigration. The Home Secretary has made it clear that she will do whatever it takes to secure our borders. [Interruption.] Somebody asked, “How’s it going?” Removals are up to 35,000. Returns of foreign national offenders are up 14%. We have taken the first step in our French returns deal, and we are investing an extra £100 million to boost our border security. There is much more to do. I think this is one of the tools to do it. I believe that it is possible for the Government to tackle illegal immigration and transform our public services and give people greater control over their data. The right hon. Gentleman’s Government did not, but this Government do.
+
+Llinos Medi (Ynys Môn) (PC)
+Thirty-one per cent of children in Wales live in poverty, and 25% of households in Wales are in fuel poverty. Given the scale of the crisis facing people, does the Minister honestly believe that an intrusive and unpopular digital ID system should be a priority?
+
+Liz Kendall
+Tackling child poverty is also a priority, as the hon. Lady will see when we produce our strategy.
+
+Blake Stephenson (Mid Bedfordshire) (Con)
+The people of Mid Bedfordshire, in response to my survey, said that they do not want digital ID, and nor do I. Does the Secretary of State agree that the individual freedoms of British people are an unacceptable price to pay for failures to enforce existing laws, protect our borders and stop illegal working? Will she please answer how much this will cost? If she does not know at this moment in time, is it responsible of her to be pushing it?
+
+Liz Kendall
+How much this costs will depend on exactly how we design and build it. I believe that this will help tackle illegal immigration and help give people more control over their data. There is a lot of misinformation out there about what this will and will not do. I do not believe it will take away people’s freedoms. I do not believe that people in Estonia, Denmark, Australia, France and many other countries believe it takes away their freedom either.
+
+Iqbal Mohamed (Dewsbury and Batley) (Ind)
+As has been mentioned, the petition opposing the Government’s proposals is the fourth largest that the people of this country have signed. I have had nearly 100 emails from my constituents opposing the scheme. Will the Secretary of State please commit to documenting every single use case for the scheme, and will she say how the separate islands of automation across Government and public services will be prepared to take advantage of a single digital ID?
+
+Liz Kendall
+All those details will be set out in the consultation. I am sure that the hon. Gentleman and his constituents will respond to that. I will say once again that many other countries do this. They have learned from experience about security, and they have learned how to keep people’s data secure. We will learn the lessons from what they have done, and I look forward to his response to the consultation.
+
+Richard Foord (Honiton and Sidmouth) (LD)
+I have been contacted by a contractor who worked on the last Labour Government’s ID card scheme. He wrote to me that
+
+“it was a massive waste of money”
+
+and suggested that it could be like
+
+“writing Fujitsu a blank cheque”.
+
+What sum are the Government setting aside for that cheque to the contractor to pay for the development of digital ID?
+
+Liz Kendall
+The hon. Gentleman may not have heard me earlier, but I said that it will be designed and built in-house.
+
+Mr Adnan Hussain (Blackburn) (Ind)
+Let us be absolutely clear: a national digital ID system creates infrastructure for surveillance and control, not freedom or efficiency, and in the hands of future Governments it could be weaponised against the most vulnerable communities. That is not a hypothetical threat. History shows us how identity systems have been used to target the powerless. We do not build tools of authoritarianism and simply hope they are never misused. Will the Government listen to the overwhelming public concern from more than 2 million people, many of whom are my constituents, and finally scrap this draconian proposal?
+
+Liz Kendall
+I think there is a lot of misinformation out there about this proposal. It is not about surveillance; it is not about a police state—the police will not be able to stop people and require them to show their digital ID. In many other countries where such a scheme has been used, it has been about making the Government and the state more effective and efficient and about giving people greater control over their data so that they can actually see it. I do not know whether the hon. Gentleman uses search engines or whether he has any form of online banking on his phone, but I gently say to him that the world has moved on. I understand that lots of people have concerns, but I believe that there is a strong case for making this happen, just as it has happened in many other countries.
+
+Jim Shannon (Strangford) (DUP)
+I respect the Secretary of State greatly, but honestly on this one I am afraid I just cannot support her whatsoever. I say that because the opposition to this ID in the United Kingdom is great, but in Northern Ireland, the Labour party, the Government and the Secretary of State in particular have managed to unite all the political parties against it. My goodness—she should do more stuff on Northern Ireland affairs, because if she can get everybody together, we could do things that were never done before. I say this with great respect: this is not about illegal immigration; this is about the nanny state. It is the first step on an icy, slippery slope—an imposed restriction by Government—and my constituents are saying no. Would the Secretary of State reconsider what she is putting forward, because really, it is going nowhere in Northern Ireland?
+
+Liz Kendall
+The hon. Gentleman and I agree on a football club, but it would appear that we do not agree on digital ID. As the hon. Gentleman knows, my right hon. Friend the Minister for Creative Industries, Media and Arts visited Northern Ireland last week. We will work through all the different institutions. I want to be very clear to anybody who has concerns about this that it is not a Brit card—that is not what we are calling it. We want to ensure that security and privacy are built in from the start. The Good Friday agreement is absolutely sacrosanct. I think there are real advantages here: when people see the system that we want and the benefits to their lives, they may reconsider their views.
+
